@@ -1,0 +1,3 @@
+# 忽略 Obsidian UI 狀態（這行最關鍵）
+workspace.json
+
