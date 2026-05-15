@@ -56,5 +56,13 @@
       ],
       "key": "I"
     }
+  ],
+  "workspace:new-tab": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
   ]
 }
